@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "960583692070",
+    "project_id": "mynotes-9a79d",
+    "storage_bucket": "mynotes-9a79d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960583692070:android:11a467112359641c0b5be7",
+        "android_client_info": {
+          "package_name": "gui.ceng.mu.edu.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960583692070-5rllmv02c8hv5lr2hg5hqp3g6ipscjns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyOl9La3IeykilZ9GTIBxdtxyFJ-Eb2mY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960583692070-5rllmv02c8hv5lr2hg5hqp3g6ipscjns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
